@@ -1,4 +1,4 @@
-Celebrity Bio Generator
+#Celebrity Bio Generator
 Welcome to the Celebrity Bio Generator! This tool provides quick and detailed information about various celebrities, including their nationality, net worth, birthday, and occupation. Whether you're a pop culture enthusiast, a movie fan, or just curious about the world’s famous figures, this app is the perfect tool to dive into the world of celebrities.
 
 Features
