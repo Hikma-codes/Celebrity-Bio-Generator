@@ -14,7 +14,7 @@ Detailed Bio: View essential celebrity details, including their nationality, net
 API Integration: Fetches real-time, accurate information from the API Ninjas Celebrity API to ensure up-to-date data.
 
 How to Use the Website
-Visit the Website: Navigate to http://hamzahikma.tech/ using your web browser.
+Visit the Website: Navigate to https://www.hamzahikma.tech/ using your web browser.
 
 Search for a Celebrity: Type the name of the celebrity you’re interested in into the search bar.
 
