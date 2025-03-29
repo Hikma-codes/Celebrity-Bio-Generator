@@ -1,5 +1,9 @@
 #CELEBRITY BIO GENERATOR
 
+Watch the demo video here to see the app in action
+
+Demo Video: https://youtu.be/KzoxsVqzANI
+
 Welcome to the Celebrity Bio Generator! This tool provides quick and detailed information about various celebrities, including their nationality, net worth, birthday, and occupation. Whether you're a pop culture enthusiast, a movie fan, or just curious about the world’s famous figures, this app is the perfect tool to dive into the world of celebrities.
 
 Features
@@ -23,10 +27,6 @@ The Celebrity Bio Generator uses the Celebrity API provided by API Ninjas to gat
 
 API Documentation: API Ninjas Celebrity API Documentation
 Feel free to use the link for your own projects - https://api-ninjas.com/api/celebrity
-
-Watch the demo video here to see the app in action 
-
-Demo Video: https://youtu.be/KzoxsVqzANI
 
 Credits
 API Ninjas: The Celebrity API is powered by API Ninjas. Explore other APIs they offer here.
